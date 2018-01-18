@@ -6,6 +6,7 @@
 
 
 <body>
+
 	<div id="jumboContainer">
 		<div id="jumbotron">
 			<div id="jumbotext">
@@ -13,4 +14,13 @@
 			</div>
 		</div>
 	</div>
+
+	{% for post in site.posts %}
+	<div id="preview">
+		<div id="poster"></div>
+		<h3 id="movieTitle"><a href="{{post.url}}">{{post.title}}</a></h3> <br>
+		<div id="rating"></div>
+	</div>
+	{% endfor %}
+
 </body>
