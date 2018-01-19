@@ -3,7 +3,9 @@
  title: "Coco"
  date:  2017-12-19
  categories: review 
+ review: "9"
+ poster: "coco.jpg"
 ---
 
 
-WOW. 9/10 MOVIE, From the second you hear that mariachi rendition of the Disney castle 'when you wish upon a star' intro you know you're in for a treat. There's so much magic in the animation, the endless fractal buildings in the land of the dead, the photo-realistic, indulgent guitar playing scenes, in pretty much everything. The story is a simple one, but it's delivered full force with that Pixar charm and magic. I feel like the hype for this movie has been low, and overshadowed by bigger-ticket flicks, but that's borderline criminal, go see it while you can
+From the second you hear that mariachi rendition of the Disney castle 'when you wish upon a star' intro, you know you're in for a treat. There's so much magic in the animation, the endless fractal buildings in the land of the dead, the photo-realistic, indulgent guitar playing scenes, in pretty much everything. The story is a simple one, but it's delivered full force with that Pixar charm and magic. I feel like the hype for this movie has been low, and overshadowed by bigger-ticket flicks, but that's borderline criminal, go see it while you can. 

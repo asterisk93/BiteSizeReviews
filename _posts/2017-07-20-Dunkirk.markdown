@@ -2,8 +2,10 @@
  layout: post
  title: "Dunkirk"
  date:  2017-07-20
- categories: review 
+ categories: review
+ review: "8"
+ poster: "dunkirk.jpg"
 ---
 
 
-Dunkirk was a solid 8/10 war movie. If you're gonna see it, IMAX is a must. Non-linear narrative structure and somber, anxious atmosphere. Damn good movie, but it won't appeal to everyone
+Dunkirk was a solid 8/10 war movie. If you're gonna see it, IMAX is a must. Non-linear narrative structure and somber, anxious atmosphere. Damn good movie, but it won't appeal to everyone. Stellar sound design will make you leave the theater riddled with bullet wounds and ptsd.

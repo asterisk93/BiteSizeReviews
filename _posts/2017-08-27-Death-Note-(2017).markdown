@@ -1,9 +1,11 @@
 ---
  layout: post
- title: "Death Note (2017)"
+ title: "Death Note (Netflix 2017)"
  date:  2017-08-27
- categories: review 
+ categories: review
+ review: "6"
+ poster: "death-note-netflix-2017.jpg"
 ---
 
 
-Netflix Death Note was just OK save for a really lazy plot bit in the middle that more or less ruined it for me. There's no sympathy for this dude, it's very high school teen drama and killing people becomes part of his love life lmao. None of the ruthless cunning or the megalomania of the original. All in all, it's worth a watch I guess but I don't really dig it.
+Netflix's Death Note was just OK, save for a really lazy plot bit in the middle that more or less ruined it for me. There's no sympathy for this dude, our protagonist, and the writing is very cliche high school teen drama. Killing people becomes a key factor in his love life, LOL. None of the ruthless cunning or the megalomania of the original. All in all, it's worth a watch I guess, but I don't really dig it.

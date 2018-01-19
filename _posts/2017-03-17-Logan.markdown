@@ -3,6 +3,8 @@
  title: "Logan"
  date:  2017-03-18
  categories: review 
+ rating: "8-9"
+ poster: "logan.jpg"
 ---
 
 

@@ -3,7 +3,9 @@
  title: "Your Name"
  date:  2017-04-12
  categories: review 
+ rating: "8"
+ poster: "your-name.jpg"
 ---
 
 
-Placeholder Review Text
+I had to see this one multiple times, which is impressive because the showtimes in toronto were really wonky and inconsistent. Enjoyed it a lot! Gorgeous visuals, a good soundtrack, and an endearing plot really draw you in to this world and its characters. It's a happy-sad anime romance. If that kind of sounds like your thing, you'll probably have a good time with this.
