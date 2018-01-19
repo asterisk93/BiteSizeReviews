@@ -4,6 +4,7 @@
  date:  2017-07-15
  categories: review
  rating: "8-9"
+ light: "gold"
  poster: "war-planet-of-the-apes.jpg" 
  permalink: /:title
 ---

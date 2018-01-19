@@ -4,6 +4,7 @@
  date:  2017-10-31
  categories: review 
  rating: "8"
+ light: "green"
  poster: "seoul-station.jpg"
  permalink: /:title
 ---

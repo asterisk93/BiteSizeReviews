@@ -3,7 +3,8 @@
  title: "Baby Driver"
  date:  2017-07-08
  categories: review
- rating: "8-9"
+ rating: "9"
+ light: "gold"
  poster: "baby-driver.jpg"
  permalink: /:title
 ---

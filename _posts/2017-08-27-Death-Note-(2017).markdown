@@ -4,6 +4,7 @@
  date:  2017-08-27
  categories: review
  rating: "6"
+ light: "yellow"
  poster: "death-note-netflix-2017.jpg"
  permalink: /:title
 ---

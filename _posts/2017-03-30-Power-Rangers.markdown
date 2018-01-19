@@ -4,6 +4,7 @@
  date:  2017-03-30
  categories: review 
  rating: "7.5"
+ light: "green"
  poster: "power-rangers-2017.jpg"
  permalink: /:title
 ---

@@ -4,6 +4,7 @@
  date:  2017-03-30
  categories: review 
  rating: "7"
+ light: "green"
  poster: "ghost-in-the-shell-2017.jpg"
  permalink: /:title
 ---

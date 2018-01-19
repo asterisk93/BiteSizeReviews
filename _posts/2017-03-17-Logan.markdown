@@ -3,7 +3,8 @@
  title: "Logan"
  date:  2017-03-18
  categories: review 
- rating: "8-9"
+ rating: "9"
+ light: "gold"
  poster: "logan.jpg"
  permalink: /:title
 ---

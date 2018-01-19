@@ -4,6 +4,7 @@
  date:  2017-10-11
  categories: review
  rating: "7-7.5"
+ light: "green"
  poster: "it-2017.jpg"
  permalink: /:title
 ---

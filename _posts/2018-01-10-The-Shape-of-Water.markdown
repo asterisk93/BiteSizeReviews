@@ -4,6 +4,7 @@
  date:  2018-01-10
  categories: review
  rating: "9.5"
+ light: "gold"
  poster: "shape-of-water.jpg"
  permalink: /:title
 ---

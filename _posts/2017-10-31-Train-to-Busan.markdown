@@ -4,6 +4,7 @@
  date:  2017-10-31
  categories: review
  rating: "9"
+ light: "gold"
  poster: "train-to-busan.jpg"
  permalink: /:title
 ---

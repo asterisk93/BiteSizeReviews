@@ -4,6 +4,7 @@
  date:  2017-12-14
  categories: review
  rating: "7"
+ light: "green"
  poster: "last-jedi.jpg"
  permalink: /:title
 ---

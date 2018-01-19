@@ -4,6 +4,7 @@
  date:  2017-12-22
  categories: review 
  rating: "8"
+ light: "green"
  poster: "disaster-artist.jpg"
  permalink: /:title
 ---

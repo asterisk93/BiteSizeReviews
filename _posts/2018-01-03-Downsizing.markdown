@@ -4,6 +4,7 @@
  date:  2018-01-03
  categories: review
  rating: "5.5-6"
+ light: "yellow"
  poster: "downsizing.jpg"
  permalink: /:title
 ---

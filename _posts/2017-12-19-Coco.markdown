@@ -4,6 +4,7 @@
  date:  2017-12-19
  categories: review 
  rating: "9"
+ light: "gold"
  poster: "coco.jpg"
  permalink: /:title
 ---

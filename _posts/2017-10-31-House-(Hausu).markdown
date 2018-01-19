@@ -4,6 +4,7 @@
  date:  2017-10-31
  categories: review
  rating: "7"
+ light: "green"
  poster: "hausu.jpg"
  permalink: /:title
 ---

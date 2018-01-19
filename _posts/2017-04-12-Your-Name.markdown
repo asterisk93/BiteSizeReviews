@@ -4,6 +4,7 @@
  date:  2017-04-12
  categories: review 
  rating: "8"
+ light: "green"
  poster: "your-name.jpg"
  permalink: /:title
 ---

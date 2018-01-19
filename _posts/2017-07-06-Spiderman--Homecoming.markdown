@@ -4,6 +4,7 @@
  date:  2017-07-06
  categories: review 
  rating: "8-9"
+ light: "green"
  poster: "spiderman-homecoming.jpg"
  permalink: /:title
 ---

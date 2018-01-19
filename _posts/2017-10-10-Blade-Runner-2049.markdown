@@ -4,6 +4,7 @@
  date:  2017-10-10
  categories: review 
  rating: "9-10"
+ light: "gold"
  poster: "blade-runner-2049.jpg"
  permalink: /:title
 ---

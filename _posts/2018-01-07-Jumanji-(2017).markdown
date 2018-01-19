@@ -4,6 +4,7 @@
  date:  2018-01-07
  categories: review
  rating: "7"
+ light: "green"
  poster: "jumanji-2017.jpg"
  permalink: /:title
 ---

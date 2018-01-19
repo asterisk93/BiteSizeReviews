@@ -4,6 +4,7 @@
  date:  2017-11-16
  categories: review 
  rating: "6.5"
+ light: "yellow"
  poster: "justice-league.jpg"
  permalink: /:title
 ---

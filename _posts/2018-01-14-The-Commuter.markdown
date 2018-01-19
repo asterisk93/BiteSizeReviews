@@ -4,6 +4,7 @@
  date:  2018-01-14
  categories: review
  rating: "7.5"
+ light: "green"
  poster: "commuter.jpg"
  permalink: /:title
 ---

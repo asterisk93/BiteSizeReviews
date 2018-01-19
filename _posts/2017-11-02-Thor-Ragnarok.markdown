@@ -4,6 +4,7 @@
  date:  2017-11-02
  categories: review
  rating: "8"
+ light: "green"
  poster: "thor-ragnarok.jpg"
  permalink: /:title
 ---
