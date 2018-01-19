@@ -3,7 +3,7 @@
  title: "Train to Busan"
  date:  2017-10-31
  categories: review
- review: "9"
+ rating: "9"
  poster: "train-to-busan.jpg"
  permalink: /:title
 ---

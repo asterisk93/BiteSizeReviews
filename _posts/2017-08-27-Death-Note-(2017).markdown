@@ -3,7 +3,7 @@
  title: "Death Note (Netflix 2017)"
  date:  2017-08-27
  categories: review
- review: "6"
+ rating: "6"
  poster: "death-note-netflix-2017.jpg"
  permalink: /:title
 ---

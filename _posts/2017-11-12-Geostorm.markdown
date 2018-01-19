@@ -3,7 +3,7 @@
  title: "Geostorm"
  date:  2017-11-12
  categories: review 
- review: "6.5"
+ rating: "6.5"
  poster: "geostorm.jpg"
  permalink: /:title
 ---

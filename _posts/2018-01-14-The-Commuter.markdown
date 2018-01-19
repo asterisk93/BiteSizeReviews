@@ -3,7 +3,7 @@
  title: "The Commuter"
  date:  2018-01-14
  categories: review
- review: "7.5"
+ rating: "7.5"
  poster: "commuter.jpg"
  permalink: /:title
 ---

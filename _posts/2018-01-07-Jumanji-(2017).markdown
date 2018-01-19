@@ -3,7 +3,7 @@
  title: "Jumanji (2017)"
  date:  2018-01-07
  categories: review
- review: "7"
+ rating: "7"
  poster: "jumanji-2017.jpg"
  permalink: /:title
 ---

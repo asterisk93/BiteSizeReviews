@@ -3,7 +3,7 @@
  title: "Coco"
  date:  2017-12-19
  categories: review 
- review: "9"
+ rating: "9"
  poster: "coco.jpg"
  permalink: /:title
 ---

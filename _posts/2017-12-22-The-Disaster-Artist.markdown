@@ -3,7 +3,7 @@
  title: "The Disaster Artist"
  date:  2017-12-22
  categories: review 
- review: "8"
+ rating: "8"
  poster: "disaster-artist.jpg"
  permalink: /:title
 ---

@@ -3,7 +3,7 @@
  title: "Seoul Station"
  date:  2017-10-31
  categories: review 
- review: "8"
+ rating: "8"
  poster: "seoul-station.jpg"
  permalink: /:title
 ---

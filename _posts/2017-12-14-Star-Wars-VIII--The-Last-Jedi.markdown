@@ -3,7 +3,7 @@
  title: "Star Wars VIII: The Last Jedi"
  date:  2017-12-14
  categories: review
- review: "7"
+ rating: "7"
  poster: "last-jedi.jpg"
  permalink: /:title
 ---

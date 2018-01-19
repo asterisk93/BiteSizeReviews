@@ -3,7 +3,7 @@
  title: "The Darkest Hour"
  date:  2018-01-13
  categories: review 
- review: "8-9"
+ rating: "8-9"
  poster: "darkest-hour.jpg"
  permalink: /:title
 ---

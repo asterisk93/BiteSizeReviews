@@ -3,7 +3,7 @@
  title: "Justice League"
  date:  2017-11-16
  categories: review 
- review: "6.5"
+ rating: "6.5"
  poster: "justice-league.jpg"
  permalink: /:title
 ---

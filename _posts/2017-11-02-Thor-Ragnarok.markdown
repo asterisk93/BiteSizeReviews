@@ -3,7 +3,7 @@
  title: "Thor: Ragnarok"
  date:  2017-11-02
  categories: review
- review: "8"
+ rating: "8"
  poster: "thor-ragnarok.jpg"
  permalink: /:title
 ---

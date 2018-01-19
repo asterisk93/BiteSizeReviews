@@ -3,7 +3,7 @@
  title: "Downsizing"
  date:  2018-01-03
  categories: review
- review: "5.5-6"
+ rating: "5.5-6"
  poster: "downsizing.jpg"
  permalink: /:title
 ---

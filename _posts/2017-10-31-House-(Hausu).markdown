@@ -3,7 +3,7 @@
  title: "House (Hausu)"
  date:  2017-10-31
  categories: review
- review: "7"
+ rating: "7"
  poster: "hausu.jpg"
  permalink: /:title
 ---

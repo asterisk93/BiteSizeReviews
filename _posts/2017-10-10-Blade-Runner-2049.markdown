@@ -3,7 +3,7 @@
  title: "Blade Runner 2049"
  date:  2017-10-10
  categories: review 
- review: "9-10"
+ rating: "9-10"
  poster: "blade-runner-2049.jpg"
  permalink: /:title
 ---

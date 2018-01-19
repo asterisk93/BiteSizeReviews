@@ -3,7 +3,7 @@
  title: "The Shape of Water"
  date:  2018-01-10
  categories: review
- review: "9.5"
+ rating: "9.5"
  poster: "shape-of-water.jpg"
  permalink: /:title
 ---
