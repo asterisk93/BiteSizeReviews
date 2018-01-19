@@ -5,6 +5,7 @@
  categories: review 
  review: "6.5"
  poster: "justice-league.jpg"
+ permalink: /:title
 ---
 
 

@@ -5,6 +5,7 @@
  categories: review
  review: "7"
  poster: "hausu.jpg"
+ permalink: /:title
 ---
 
 

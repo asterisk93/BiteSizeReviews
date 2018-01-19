@@ -5,6 +5,7 @@
  categories: review
  review: "7.5"
  poster: "commuter.jpg"
+ permalink: /:title
 ---
 
 

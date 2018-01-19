@@ -5,6 +5,7 @@
  categories: review 
  rating: "7.5"
  poster: "power-rangers-2017.jpg"
+ permalink: /:title
 ---
 
 

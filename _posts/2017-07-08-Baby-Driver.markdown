@@ -5,6 +5,7 @@
  categories: review
  rating: "8-9"
  poster: "baby-driver.jpg"
+ permalink: /:title
 ---
 
 

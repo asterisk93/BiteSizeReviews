@@ -5,6 +5,7 @@
  categories: review 
  rating: "6.5-7"
  poster: "wonder-woman-2017.jpg"
+ permalink: /:title
 ---
 
 

@@ -5,6 +5,7 @@
  categories: review
  review: "9"
  poster: "train-to-busan.jpg"
+ permalink: /:title
 ---
 
 

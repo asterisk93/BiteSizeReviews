@@ -5,6 +5,7 @@
  categories: review 
  review: "8-9"
  poster: "darkest-hour.jpg"
+ permalink: /:title
 ---
 
 

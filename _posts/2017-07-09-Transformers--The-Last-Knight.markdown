@@ -5,6 +5,7 @@
  categories: review 
  rating: "3.5-4"
  poster: "transformers-last-knight.jpg"
+ permalink: /:title
 ---
 
 

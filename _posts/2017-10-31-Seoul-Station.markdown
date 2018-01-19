@@ -5,6 +5,7 @@
  categories: review 
  review: "8"
  poster: "seoul-station.jpg"
+ permalink: /:title
 ---
 
 

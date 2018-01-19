@@ -5,6 +5,7 @@
  categories: review
  review: "7-7.5"
  poster: "it-2017.jpg"
+ permalink: /:title
 ---
 
 

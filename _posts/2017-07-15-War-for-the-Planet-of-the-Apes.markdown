@@ -5,6 +5,7 @@
  categories: review
  rating: "8-9"
  poster: "war-planet-of-the-apes.jpg" 
+ permalink: /:title
 ---
 
 

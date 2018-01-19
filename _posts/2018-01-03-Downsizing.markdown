@@ -5,6 +5,7 @@
  categories: review
  review: "5.5-6"
  poster: "downsizing.jpg"
+ permalink: /:title
 ---
 
 

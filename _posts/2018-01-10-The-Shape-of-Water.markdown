@@ -5,6 +5,7 @@
  categories: review
  review: "9.5"
  poster: "shape-of-water.jpg"
+ permalink: /:title
 ---
 
 

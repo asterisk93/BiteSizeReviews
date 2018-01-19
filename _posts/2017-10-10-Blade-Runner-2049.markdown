@@ -5,6 +5,7 @@
  categories: review 
  review: "9-10"
  poster: "blade-runner-2049.jpg"
+ permalink: /:title
 ---
 
 

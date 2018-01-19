@@ -5,6 +5,7 @@
  categories: review
  review: "7"
  poster: "last-jedi.jpg"
+ permalink: /:title
 ---
 
 

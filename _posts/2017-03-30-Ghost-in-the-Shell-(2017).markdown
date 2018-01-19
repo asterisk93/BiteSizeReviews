@@ -5,6 +5,7 @@
  categories: review 
  rating: "7"
  poster: "ghost-in-the-shell-2017.jpg"
+ permalink: /:title
 ---
 
 

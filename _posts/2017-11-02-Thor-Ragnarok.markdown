@@ -5,6 +5,7 @@
  categories: review
  review: "8"
  poster: "thor-ragnarok.jpg"
+ permalink: /:title
 ---
 
 
