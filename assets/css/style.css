@@ -43,6 +43,7 @@ body{
 #jumbotext:hover{
 	color:red;
 	border-color: red;
+	border-width: 13px;
 }
 
     @media all and (min-width: 50px) {  #jumbotext  {   font-size:0.09em;  } }
@@ -82,6 +83,11 @@ body{
 	align-items: center;
 	justify-content: space-between;	
 	text-align: center;
+}
+
+#preview:hover{
+	border-color: #FFFFFF;
+	border-width: 8px;
 }
 
 #poster{
