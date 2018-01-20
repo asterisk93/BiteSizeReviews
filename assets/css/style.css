@@ -3,6 +3,17 @@ body{
 	font-size: 10px;
 }
 
+a {
+	text-decoration: none;
+}
+
+a .previewLink {
+	display: block;
+	overflow: hidden;
+	width: 65%
+
+}
+
 #jumboContainer {
 	width: 75%;
 	background-color: black;
@@ -76,13 +87,13 @@ body{
 	margin-top: 30px;
 	margin-bottom: 30px;
 	width: 60%;
-	background-color: #8c8c8c;
-	overflow: auto;
+	background-color: #808080;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: space-between;	
 	text-align: center;
+	flex-wrap: wrap;
 }
 
 #preview:hover{
@@ -99,7 +110,10 @@ body{
 #movieTitle{
 	font-family: 'roboto';
 	text-transform: uppercase;
-	font-size: 1.75vw;
+	font-size: 1.5vw;
+	color: #141439;
+	width: 50%;
+	font-weight: 
 }
 
 #rating{
@@ -109,6 +123,23 @@ body{
 	padding: 10px;
 	border-style: solid;
 	border-radius: 5px;
+}
+
+.reviewText{
+	display: block;
+	border-radius: 15px;
+	width: 75%;
+	font-size: 1.5vw;
+	margin: auto;
+	margin-top: 30px;
+	padding-left: 15%;
+	padding-right: 15%;
+	background-color: #4a4a4a;
+	font-family: helvetica;
+	font-weight: 550;
+	text-align: left;
+	text-indent: 1.75em;
+	color: #FFFFFF;
 }
 
 [light~=gold]{
@@ -123,14 +154,17 @@ body{
 [light~=green]{
 	background-color: #009933;
 	border-color: #004d1a;
+	color: #004d1a;
 }
 
 [light~=yellow]{
 	background-color: #ffcc00;
-	border-color: #cca300;
+	border-color: #997a00;
+	color: #997a00;
 }
 
 [light~=red]{
 	background-color: #ae0000;
 	border-color: #660000;
+	color: #660000;
 }

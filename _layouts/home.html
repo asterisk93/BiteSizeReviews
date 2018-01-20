@@ -17,19 +17,27 @@
 		</div>
 	</div>
 
-	{% for post in site.posts limit:27 %}
-	<div id="preview">
-		<img id="poster" src="assets/posters/{{post.poster}}">
+	{% for post in site.posts limit:5 %}
+	<a class="previewLink" href="{{site.baseurl}}{{post.url}}">
+		<div id="preview">
+			<img id="poster" src="assets/posters/{{post.poster}}"> 
 		
-		<div id="movieTitle">
-			<h1>{{post.title}}</h1>
-		</div>
+			<div id="movieTitle">
+				<h1>{{post.title}}</h1>
+			</div>
 
-		<div id="rating" light="{{post.light}}">
-			<h2>{{post.rating}}/10</h2>
-		</div>
+			<div id="rating" light="{{post.light}}">
+				<h2>{{post.rating}}/10</h2>
+			</div>
 
-	</div>
+			<div class="reviewText">
+				{{post.content}}
+			</div>
+
+		</div>
+	</a>
+
+
 	{% endfor %}
 
 </body>
