@@ -11,10 +11,32 @@
 
 	<div id="jumboContainer">
 		<div id="jumbotron">
+			<a href="{{site.baseurl}}/">
 			<div id="jumbotext">
 				<h1>Bite-Size Reviews</h1>
 			</div>
+			</a>
 		</div>
+	</div>
+
+	<div id="categoryBar">
+		
+		<div class="catBarButton">
+			<a href="">
+				<h1 id="biteText"></h1>
+			</a>
+		</div>
+
+		<div class="catBarButton">
+			<a href="">
+				<h1 id="mealText"></h1>
+			</a>
+		</div>
+
+	</div>
+
+	<div id="recent">
+		<h1>Recent Posts:</h1>
 	</div>
 
 	{% for post in site.posts limit:5 %}

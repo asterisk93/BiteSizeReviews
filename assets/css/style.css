@@ -11,6 +11,7 @@ a {
 	width: 65%;
 	text-align: center;
 	margin: 0 auto;
+	margin-top: 60px;
 
 }
 
@@ -51,6 +52,10 @@ a {
 
 }
 
+a #jumbotext{
+	color: #FFFFFF;
+}
+
 #jumbotext:hover{
 	color:red;
 	border-color: red;
@@ -75,6 +80,17 @@ a {
 	@media all and (min-width: 1500px) {  #jumbotext  { font-size:3.1em;  } }
 	@media all and (min-width: 1600px) {  #jumbotext  { font-size:3.3em;  } }
 	@media all and (min-width: 1700px) {  #jumbotext  { font-size:3.5em;  } }
+
+
+#recent{
+	width:60%;
+	color: #FFFFFF;
+	margin: auto;
+	font-family: 'Bungee Inline';
+	font-size: 1.3vw;
+	margin-bottom: -40px;
+}
+
 
 #preview{
 	border-style: solid;
@@ -105,10 +121,10 @@ a {
 }	
 
 #movieTitle{
-	font-family: 'roboto';
+	font-family: 'Candal';
 	text-transform: uppercase;
 	font-size: 1.5vw;
-	color: #141439;
+	color: #333333;
 	width: 50%;
 	font-weight: 
 }
@@ -123,7 +139,7 @@ a {
 }
 
 .reviewText{
-	display: block;
+	display: none;
 	border-radius: 15px;
 	width: 75%;
 	font-size: 1.5vw;
