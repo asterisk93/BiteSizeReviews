@@ -7,6 +7,15 @@ a {
 	text-decoration: none;
 }
 
+
+#navbarContainer{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;	
+	text-align: center;
+}
+
 .previewLink {
 	width: 65%;
 	text-align: center;

@@ -1,13 +1,7 @@
-<!DOCTYPE html>
+---
+layout: wrapper
+---
 
-
-<head>
-	{% include blog-head.html %}
-</head>
-
-
-
-<body>
 
 	<div id="jumboContainer">
 		<div id="jumbotron">
@@ -22,7 +16,7 @@
 	<div id="categoryBar">
 		
 		<div class="catBarButton">
-			<a href="">
+			<a href="{{site.baseurl}}/bites/">
 				<div id="biteText">
 					<h1>Bite-Size</h1>
 					<p>Reviews and First Impressions</p>
@@ -31,7 +25,7 @@
 		</div>
 
 		<div class="catBarButton">
-			<a href="">
+			<a href="{{site.baseurl}}/meals/">
 				<div id="mealText">
 					<h1>Meal-Size</h1>
 					<p>Interpretations and Musings</p>
@@ -69,4 +63,3 @@
 
 	{% endfor %}
 
-</body>
