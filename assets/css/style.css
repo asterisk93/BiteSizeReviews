@@ -23,13 +23,12 @@ a {
 }
 
 #navHome{
-	margin-left: 30px;
+	margin-left: 15px;
 	line-height: 45px;
-	padding-right: 30px;
+	padding-right: 15px;
 	border-right-style: solid;
-	border-right-color: #222222; 
-
-
+	border-right-color: #222222;
+	border-right-width: 2px; 
 }
 
 #navHomeText{
@@ -57,9 +56,11 @@ a #navHomeText{
 #navBites{
 	
 	line-height: 45px;
-	padding-right: 30px;
+	padding-right: 15px;
+	padding-left: 15px;
 	border-right-style: solid;
-	border-right-color: #222222; 
+	border-right-color: #222222;
+	border-right-width: 2px; 
 }
 
 #navBitesText{
@@ -85,11 +86,12 @@ a #navBitesText{
 }
 
 #navMeals{
-	
 	line-height: 45px;
-	padding-right: 30px;
+	padding-right: 15px;
+	padding-left: 15px;
 	border-right-style: solid;
-	border-right-color: #222222; 
+	border-right-color: #222222;
+	border-right-width: 2px;
 }
 
 #navMealsText{
@@ -117,9 +119,11 @@ a #navMealsText{
 #navAbout{
 	
 	line-height: 45px;
-	padding-right: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
 	border-right-style: solid;
 	border-right-color: #222222; 
+	border-right-width: 2px;
 }
 
 #navAboutText{
@@ -146,6 +150,10 @@ a #navAboutText{
 
 #search{
 	margin-right: 30px;
+}
+
+#navTagline{
+	flex-grow: 2;
 }
 
 .previewLink {
@@ -303,7 +311,7 @@ a #mealText{
 	align-items: center;
 	justify-content: space-between;	
 	text-align: center;
-	flex-wrap: wrap;
+
 }
 
 #preview:hover{
@@ -319,7 +327,7 @@ a #mealText{
 #movieTitle{
 	font-family: 'Candal';
 	text-transform: uppercase;
-	font-size: 1.5vw;
+	font-size: 1.3vw;
 	color: #333333;
 	width: 50%;
 	font-weight: 
