@@ -14,6 +14,138 @@ a {
 	align-items: center;
 	justify-content: space-between;	
 	text-align: center;
+	background-color: #2c2c2c;
+	height: 45px;
+	overflow: hidden;
+	border-style: solid;
+	border-color: #4a4a4a;
+	border-radius: 5px;
+}
+
+#navHome{
+	margin-left: 30px;
+	line-height: 45px;
+	padding-right: 30px;
+	border-right-style: solid;
+	border-right-color: #222222; 
+
+
+}
+
+#navHomeText{
+	font-family: 'Bungee Inline';
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 5px;
+	font-size: 20px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	padding: 0 15px;
+	background-color: #4a4a4a;
+}
+
+a #navHomeText{
+	color: #FFFFFF;
+}
+
+#navHomeText:hover{
+	color:red;
+	border-color: red;
+}
+
+#navBites{
+	
+	line-height: 45px;
+	padding-right: 30px;
+	border-right-style: solid;
+	border-right-color: #222222; 
+}
+
+#navBitesText{
+	font-family: 'Bungee Inline';
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 5px;
+	font-size: 15px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	padding: 0 15px;
+	background-color: #4a4a4a;
+}
+
+a #navBitesText{
+	color: #FFFFFF;
+}
+
+#navBitesText:hover{
+	color:green;
+	border-color: green;
+}
+
+#navMeals{
+	
+	line-height: 45px;
+	padding-right: 30px;
+	border-right-style: solid;
+	border-right-color: #222222; 
+}
+
+#navMealsText{
+	font-family: 'Bungee Inline';
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 5px;
+	font-size: 15px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	padding: 0 15px;
+	background-color: #4a4a4a;
+}
+
+a #navMealsText{
+	color: #FFFFFF;
+}
+
+#navMealsText:hover{
+	color:blue;
+	border-color: blue;
+}
+
+#navAbout{
+	
+	line-height: 45px;
+	padding-right: 30px;
+	border-right-style: solid;
+	border-right-color: #222222; 
+}
+
+#navAboutText{
+	font-family: 'Bungee Inline';
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 5px;
+	font-size: 15px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	padding: 0 15px;
+	background-color: #4a4a4a;
+}
+
+a #navAboutText{
+	color: #FFFFFF;
+}
+
+#navAboutText:hover{
+	color:blue;
+	border-color: blue;
+}
+
+#search{
+	margin-right: 30px;
 }
 
 .previewLink {
