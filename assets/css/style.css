@@ -168,9 +168,8 @@ a #navAboutText{
 	line-height: 35px;
 	height: 35px;
 	background-color: #666666;
-	padding-right: 15px;
-	padding-left: 15px;
-	padding-top:
+	padding-right: 1px;
+	padding-left: 1px;
 	border-style: solid;
 	border-width: 0px;
 	border-radius: 5px; 
@@ -189,7 +188,7 @@ a #navAboutText{
 	padding: 0 15px;
 	background-color: #4a4a4a;
 	color: #FFFFFF;
-	margin-left: 10px;
+	margin-left: 5px;
 	margin-top: -10px;
 }
 
@@ -205,6 +204,7 @@ a #navAboutText{
 	border-width: 1px;
 	border-radius: 5px;
 	margin-top: 5px;
+	width: 50%;
 }
 
 .previewLink {
