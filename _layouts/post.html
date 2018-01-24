@@ -1,0 +1,49 @@
+---
+layout: wrapper
+---
+
+
+
+<div id="post-container">
+
+	
+	<img id="post-poster" src="assets/posters/{{page.poster}}">
+	
+
+	<div id="post-dataBar">
+		
+		<div id="post-titleBar">
+			
+			<div id="post-titleText">
+				<span>{{page.title}}</span>
+			</div>
+
+			<div id="post-date">
+				<span>{{ page.date | date: "%B %-d, %Y"}}</span>
+			</div>
+
+		</div> <br>
+
+		<div id="post-reviewBar">
+			
+			<div id="post-ratingText">
+				<span>Rating:</span>
+			</div>
+
+			<div id="post-ratingValue" postLight="{{page.light}}">
+				<span>{{page.rating}}/10</span>
+			</div>
+
+		</div> <br>
+
+		<div id="post-body">
+
+			<div id="post-bodyText">
+				{{content}}
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
