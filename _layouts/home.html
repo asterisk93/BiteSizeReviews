@@ -39,10 +39,19 @@ layout: wrapper
 		<h1>Recent Posts:</h1>
 	</div>
 
-	{% for post in site.posts limit:27 %}
+	{% for post in site.posts limit:32 %}
 	<div class="previewLink">
+
+		<div id="previewDate">
+			{{ post.date | date: "%B %-d, %Y"}}
+		</div>
+		
 		<a href="{{site.baseurl}}{{post.url}}">
+
 			<div id="preview">
+
+				{% if post.categories contains "review" %}
+
 				<img id="poster" src="assets/posters/{{post.poster}}"> 
 			
 				<div id="movieTitle">
@@ -57,8 +66,25 @@ layout: wrapper
 					{{post.content}}
 				</div>
 
+				{% elsif post.categories contains "opinion" %}
+
+				<div id="BSRblock">
+					<span>BSR</span>
+				</div>
+
+				<div id="articleTitle">
+					<span>{{post.title}}</span>
+				</div>
+
+				<div id="mealBlock">
+					<span>MEAL</span>
+				</div>
+
+				{% endif %}
 			</div>
 		</a>
+
+
 	</div>
 
 	{% endfor %}
