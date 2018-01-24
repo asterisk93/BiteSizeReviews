@@ -3,7 +3,7 @@ layout: wrapper
 ---
 
 
-
+{% if page.categories contains "review" %}
 <div id="post-container">
 
 	
@@ -47,3 +47,29 @@ layout: wrapper
 	</div>
 
 </div>
+
+{% elsif page.categories contains "opinion" %}
+
+<div id="meal-container">
+	
+	<div id="meal-titleBar">
+		
+		<div id="meal-title">
+			<span>{{page.title}}</span>
+		</div>
+
+		<div id="meal-date">
+			<span>{{ page.date | date: "%B %-d, %Y"}}</span>
+		</div>
+
+	</div>
+
+	<img id="meal-mainImage" src="assets/article-images/{{page.image}}">
+
+	<div id="meal-body">
+		{{content}}
+	</div>
+
+</div>
+
+{% endif %}

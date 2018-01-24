@@ -3,7 +3,7 @@
  title: "An Attempt to Articulate the 'Justice League' After-Taste"
  date:  2017-11-16
  categories: opinion 
- image:
+ image: justiceleague.jpg
  permalink: /:title
 ---
 
