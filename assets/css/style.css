@@ -403,7 +403,7 @@ a #mealText{
 #rating{
 	font-family: 'Bungee';
 	text-align: center;
-	font-size: 35px;
+	font-size: 30px;
 	line-height: 40px;
 	height: 40px;
 	padding: 15px;
@@ -472,7 +472,7 @@ a #mealText{
 }
 
 #post-poster{
-	width: 35vw;
+	width: 45vw;
 	align-self: center;
 }
 
