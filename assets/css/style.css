@@ -694,3 +694,54 @@ a #mealBlock{
 	font-size: 1.5vw;
 	color: #FFFFFF;
 }
+
+/**
+---------------------------------About Page---------------------------------
+**/
+
+#about-title{
+	text-align: center;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 10px;
+	border-width: 8px;
+	margin: 0 auto;
+	width: 40%;
+	padding: 15px;
+}
+
+#about-titleText{
+	font-family: 'Bungee';
+	font-size: 3.5vw;
+	color: #FFFFFF;
+}
+
+#about-tagline{
+	font-family: 'Bungee';
+	font-size: 1.5vw;
+	color: #FFFFFF;	
+}
+
+#about-content{
+	width: 60%;
+	margin: 0 auto;
+	background-color: #4a4a4a;
+	color: #FFFFFF;
+	font-family: 'helvetica';
+	font-size: 20px;
+	padding: 40px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: #222222;
+	border-width: 5px;
+	margin-top: 30px;
+}
+
+#about-pretext{
+	color: #3385ff;
+	font-weight: bold;
+}
+
+#about-posttext{
+	font-size: 15px;
+}
