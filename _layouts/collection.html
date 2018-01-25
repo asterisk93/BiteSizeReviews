@@ -1,0 +1,105 @@
+---
+layout: wrapper
+---
+
+{% if page.items contains "bites" %}
+
+<div id="collect-titleBar">
+	
+	<div id="collect-titleText">
+		<span>Bite-Size</span>	
+	</div>
+	
+	<div id="collect-tagline">
+		<span>Reviews and First Impressions</span>
+	</div>
+</div>
+
+	{% for post in site.posts %}
+
+	{% if post.categories contains "review" %}
+
+	<div class="previewLink">
+
+		<div id="previewDate">
+			{{ post.date | date: "%B %-d, %Y"}}
+		</div>
+		
+		<a href="{{site.baseurl}}{{post.url}}">
+
+			<div id="preview">
+
+				<img id="poster" src="{{ site.baseurl  }}/assets/posters/{{post.poster}}"> 
+			
+				<div id="movieTitle">
+					<h1>{{post.title}}</h1>
+				</div>
+
+				<div id="rating" light="{{post.light}}">
+					<span>{{post.rating}}/10</span>
+				</div>
+
+				<div class="reviewText">
+					{{post.content}}
+				</div>
+
+			</div>
+		</a>
+
+	</div>
+
+	{% endif %}
+
+	{% endfor %}
+
+{% elsif page.items contains "meals" %}
+
+
+<div id="collect-titleBar">
+	
+	<div id="collect-titleText">
+		<span>Meal-Size</span>	
+	</div>
+	
+	<div id="collect-tagline">
+		<span>Interpretations and Musings</span>
+	</div>
+</div>
+
+	{% for post in site.posts %}
+
+	{% if post.categories contains "opinion" %}
+
+	<div class="previewLink">
+
+		<div id="previewDate">
+			{{ post.date | date: "%B %-d, %Y"}}
+		</div>
+		
+		<a href="{{site.baseurl}}{{post.url}}">
+
+			<div id="preview">
+
+				<div id="BSRblock">
+					<span>BSR</span>
+				</div>
+
+				<div id="articleTitle">
+					<span>{{post.title}}</span>
+				</div>
+
+				<div id="dummyDiv">
+
+				</div>
+
+			</div>
+
+		</a>
+
+	</div>
+
+	{% endif %}
+
+	{% endfor %}
+
+{% endif %}

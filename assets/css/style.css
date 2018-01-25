@@ -666,3 +666,31 @@ a #mealBlock{
 	width: 70%;
 	margin: 0 auto;
 }
+
+/**
+---------------------------------Post Collections---------------------------------
+**/
+
+#collect-titleBar{
+	text-align: center;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 10px;
+	border-width: 8px;
+	margin: 0 auto;
+	width: 40%;
+	padding: 15px;
+
+}
+
+#collect-titleText{
+	font-family: 'Bungee';
+	font-size: 3.5vw;
+	color: #FFFFFF;
+}
+
+#collect-tagline{
+	font-family: 'Bungee';
+	font-size: 1.5vw;
+	color: #FFFFFF;
+}
