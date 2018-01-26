@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Bite Size Reviews	</title>
-	<meta name="description" content="{{site.description}}">
+	<title>{{page.title}}</title>
+	<meta name="description" content="
+	{% if page.excerpt %}{{ page.excerpt }}
+	{% else %}{{site.description}}{% endif %}">
 	{% include blog-head.html %}
 </head>
 
