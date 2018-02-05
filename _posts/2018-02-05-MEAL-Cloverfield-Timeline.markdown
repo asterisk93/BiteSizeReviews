@@ -3,7 +3,7 @@
  title: "Cloverfield: Some Semblance of a Timeline"
  date:  2018-02-05
  categories: opinion
- image: cloverfieldhospital.png
+ image: cloverfieldhospital.jpg
  permalink: /:title
 ---
 
