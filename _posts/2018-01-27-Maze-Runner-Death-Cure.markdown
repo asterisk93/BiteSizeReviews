@@ -5,7 +5,7 @@
  categories: review 
  rating: "7"
  light: "green"
- poster: "death-cure"
+ poster: "death-cure.jpg"
  permalink: /:title
 ---
 
