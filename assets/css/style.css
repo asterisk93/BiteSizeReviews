@@ -7,6 +7,19 @@ a {
 	text-decoration: none;
 }
 
+#content-flex{
+	display: flex;
+	flex-direction: column;
+}
+
+#content{
+	flex: 1 0 auto;
+}
+
+#footer{
+	flex-shrink: 0;
+}
+
 
 /**
 ---------------------------------Navigation Bar---------------------------------
@@ -747,3 +760,34 @@ a #mealBlock{
 #about-posttext{
 	font-size: 15px;
 }
+
+/**
+---------------------------------Site Footer---------------------------------
+**/
+
+#footer-container{
+	margin-top: 50px;
+  	text-align: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	padding: 5px;
+}
+
+#footer-home{
+	height: 35px;
+}
+
+.footer-btn{
+	font-family: helvetica;
+	font-size: 14px;
+	height: 35px;
+	text-transform: uppercase;
+	line-height: 35px;
+}
+
+.footer-btn span{
+	padding: 5px;
+}
+

@@ -9,8 +9,15 @@
 </head>
 
 <body>
-	{% include header.html %} <br>
-	{{ content }}
+	<div id="content-flex">
+		<div id="content">
+			{% include header.html %} <br>
+			{{ content }}
+		</div>
+
+		<div id="footer">
+			{% include footer.html %}
+		</div>
 </body>
 
 </html>
