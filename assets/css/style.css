@@ -167,7 +167,7 @@ a #navAboutText{
 }
 
 #navTagline{
-	width: 60%;
+	width: 55%;
 	border-right-style: solid;
 	border-right-color: #222222; 
 	border-right-width: 2px;
@@ -181,7 +181,7 @@ a #navAboutText{
 }
 
 #search{
-	width: 15%;
+	width: 20%;
 	margin-left: 15px;
 	margin-right: 25px;
 	background-color: #666666;
@@ -203,8 +203,9 @@ a #navAboutText{
 #navSearchOK{
 	display: inline-block;
 	margin-left: 15px;
-	width: 30%;
+	width: 20%;
 	text-align: center;
+	min-width: 0;
 }
 
 #navOKtext{
@@ -240,6 +241,8 @@ a #navOKtext:hover{
 	border-width: 1px;
 	border-radius: 5px;
 	width: 50%;
+	display: inline-block;
+	min-width: 0;
 }
 
 /**
