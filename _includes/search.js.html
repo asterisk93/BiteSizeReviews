@@ -1,0 +1,50 @@
+<script type="text/javascript">
+
+var searchTerm = '';
+
+var posts = [
+  {% for post in site.posts %}
+
+  	{% if post.categories contains "review" %}
+  	{
+      "title": "{{ post.title }}",
+      "key": "{{ post.title | slugify }}"
+      
+    }
+
+    {% elsif post.categories contains "opinion" %}
+    {
+      "title": "{{ post.title }}",
+      "key": "{{ post.title | slugify }}"
+      
+    }
+    {% endif %}
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
+
+
+
+
+function getSearchTerm() {
+	searchTerm = document.getElementById("collect-searchbar").value;
+	searchPosts();
+	}
+
+function searchPosts() {
+	for (i = 0; i < posts.length; i++) {
+		document.getElementById(posts[i].key).style.display = "none";
+
+		if (searchTerm.length > 0){
+
+			if (posts[i].title.includes(searchTerm)) {
+				document.getElementById(posts[i].key).style.display = "block";
+			}
+
+		}
+	}
+}
+
+
+	
+</script>

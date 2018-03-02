@@ -167,7 +167,7 @@ a #navAboutText{
 }
 
 #navTagline{
-	flex-grow: 2;
+	width: 60%;
 	border-right-style: solid;
 	border-right-color: #222222; 
 	border-right-width: 2px;
@@ -181,38 +181,56 @@ a #navAboutText{
 }
 
 #search{
+	width: 15%;
 	margin-left: 15px;
-	margin-right: 15px;
-	line-height: 35px;
-	height: 35px;
+	margin-right: 25px;
 	background-color: #666666;
 	padding-right: 1px;
 	padding-left: 1px;
 	border-style: solid;
 	border-width: 0px;
 	border-radius: 5px; 
+}
 
+#searchbar{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+	min-width: 0;
 }
 
 #navSearchOK{
+	display: inline-block;
+	margin-left: 15px;
+	width: 30%;
+	text-align: center;
+}
+
+#navOKtext{
 	font-family: 'Bungee';
 	border-style: solid;
 	border-color: #FFFFFF;
 	border-radius: 5px;
-	font-size: 12px;
+	font-size: .7vw;
 	height: 30px;
-	line-height: 20px;
+	line-height: 30px;
 	text-align: center;
 	padding: 0 15px;
 	background-color: #4a4a4a;
-	color: #FFFFFF;
-	margin-left: 5px;
-	margin-top: -10px;
+	width: 100%;
 }
 
-#navSearchOK:hover{
-	color: #0099ff;
+#navOKtext:hover{
 	border-color: #0099ff;
+}
+
+a #navOKtext{
+	color: white;
+}
+
+a #navOKtext:hover{
+	color: #0099ff;
 }
 
 #navSearch{
@@ -221,7 +239,6 @@ a #navAboutText{
 	border-style: solid;
 	border-width: 1px;
 	border-radius: 5px;
-	margin-top: 5px;
 	width: 50%;
 }
 
@@ -759,6 +776,62 @@ a #mealBlock{
 
 #about-posttext{
 	font-size: 15px;
+}
+
+/**
+---------------------------------Post Search---------------------------------
+**/
+
+.previewLink-search {
+	display: none;
+	width: 65%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 60px;
+}
+
+#collect-search {
+	display: flex;
+	flex-direction: row;
+	width: 40%;
+	text-align: center;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: center;
+	margin-top: 50px;
+	background-color: #666666;
+	border-width: 0;
+	border-radius: 5px;
+	padding: 15px;
+
+}
+
+#collect-searchbar {
+	width: 60%;
+	font-size: 16px;
+	border-radius: 5px;
+}
+
+#collect-searchOK {
+	font-family: 'Bungee';
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 5px;
+	font-size: 20px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	padding: 0 15px;
+	background-color: #4a4a4a;
+	color: #FFFFFF;
+	cursor: pointer;
+	margin-left: 10px;
+}
+
+
+#collect-searchOK:hover {
+	color: #0099ff;
+	border-color: #0099ff;
 }
 
 /**

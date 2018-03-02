@@ -103,7 +103,9 @@ layout: wrapper
 	{% endfor %}
 
 
-{% elsif page.items contains "meals" %}
+{% elsif page.items contains "search" %}
+
+
 
 <div id="collect-titleBar">
 	
@@ -116,4 +118,80 @@ layout: wrapper
 	</div>
 </div>
 
+<div id="collect-search">
+	<input type="text" id="collect-searchbar" placeholder="Search Posts">
+
+	<div id="collect-searchOK" onclick="getSearchTerm()">
+				<span>Search</span>
+	</div>
+</div>
+
+	{% for post in site.posts %}
+		{% if post.categories contains "review" %}
+		<div class="previewLink-search" id="{{ post.title | slugify }}">
+
+			<div id="previewDate">
+				{{ post.date | date: "%B %-d, %Y"}}
+			</div>
+		
+			<a href="{{site.baseurl}}{{post.url}}">
+
+				<div id="preview">
+
+					<img id="poster" src="{{ site.baseurl  }}/assets/posters/{{post.poster}}"> 
+			
+					<div id="movieTitle">
+						<h1>{{post.title}}</h1>
+					</div>
+
+					<div id="rating" light="{{post.light}}">
+						<span>{{post.rating}}/10</span>
+					</div>
+
+					<div class="reviewText">
+						{{post.content}}
+					</div>
+
+				</div>
+			</a>
+
+		</div>
+
+		{% elsif post.categories contains "opinion" %}
+		<div class="previewLink-search" id="{{ post.title | slugify }}">
+
+			<div id="previewDate">
+				{{ post.date | date: "%B %-d, %Y"}}
+			</div>
+		
+			<a href="{{site.baseurl}}{{post.url}}">
+
+				<div id="preview">
+
+					<div id="BSRblock">
+						<span>BSR</span>
+					</div>
+
+					<div id="articleTitle">
+						<span>{{post.title}}</span>
+					</div>
+
+					<div id="dummyDiv">
+
+					</div>
+
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endif %}
+	{% endfor %}
+
+	{% include search.js.html %}
+
+	<script type="text/javascript">
+		searchPosts();
+	</script>
 {% endif %}
