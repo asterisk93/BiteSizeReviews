@@ -40,6 +40,13 @@ a {
 	margin-bottom: 30px;
 }
 
+#navCol-1{
+	display: flex;
+	justify-content: center;
+    flex-direction: row;
+
+}
+
 #navHome{
 	margin-left: 15px;
 	line-height: 45px;
@@ -168,9 +175,6 @@ a #navAboutText{
 
 #navTagline{
 	width: 55%;
-	border-right-style: solid;
-	border-right-color: #222222; 
-	border-right-width: 2px;
 	text-align: center;
 }
 
@@ -180,32 +184,15 @@ a #navAboutText{
 	font-size: 0.8vw;
 }
 
-#search{
-	width: 20%;
-	margin-left: 15px;
-	margin-right: 25px;
-	background-color: #666666;
-	padding-right: 1px;
-	padding-left: 1px;
-	border-style: solid;
-	border-width: 0px;
-	border-radius: 5px; 
-}
-
-#searchbar{
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	flex-wrap: nowrap;
-	min-width: 0;
-}
 
 #navSearchOK{
-	display: inline-block;
 	margin-left: 15px;
-	width: 20%;
-	text-align: center;
-	min-width: 0;
+	line-height: 45px;
+	padding-left: 15px;
+	border-left-style: solid;
+	border-left-color: #222222;
+	border-left-width: 2px;
+    margin-right: 15px; 
 }
 
 #navOKtext{
@@ -213,13 +200,12 @@ a #navAboutText{
 	border-style: solid;
 	border-color: #FFFFFF;
 	border-radius: 5px;
-	font-size: .7vw;
+	font-size: 15px;
 	height: 30px;
 	line-height: 30px;
 	text-align: center;
 	padding: 0 15px;
 	background-color: #4a4a4a;
-	width: 100%;
 }
 
 #navOKtext:hover{

@@ -7,14 +7,14 @@ var posts = [
 
   	{% if post.categories contains "review" %}
   	{
-      "title": "{{ post.title }}",
+      "title": "{{ post.title | downcase}}",
       "key": "{{ post.title | slugify }}"
       
     }
 
     {% elsif post.categories contains "opinion" %}
     {
-      "title": "{{ post.title }}",
+      "title": "{{ post.title | downcase}}",
       "key": "{{ post.title | slugify }}"
       
     }
@@ -37,7 +37,7 @@ function searchPosts() {
 
 		if (searchTerm.length > 0){
 
-			if (posts[i].title.includes(searchTerm)) {
+			if (posts[i].title.includes(searchTerm.toLowerCase())) {
 				document.getElementById(posts[i].key).style.display = "block";
 			}
 

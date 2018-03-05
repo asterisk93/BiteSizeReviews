@@ -1,5 +1,6 @@
-	<div id="navbarContainer">
+<div id="navbarContainer">
 
+	<div id="navCol-1">
 		<div id="navHome">
 			<a href="{{site.baseurl}}/">
 				<div id="navHomeText">
@@ -30,34 +31,22 @@
 					<span>About</span>
 				</div>
 			</a>
-		</div>		
-
-		<div id="navTagline">
-			<div id="navTaglineText">
-				<span>Tfw no surrogate robot father figure with sunglasses</span>
-			</div>
 		</div>
+	</div>	
 
-		<div id="search">
-			<div id="searchBar">
-				<input type="text" name="searchValue" id="navSearch" placeholder="Search Posts">
-				<div id="navSearchOK" onclick="getNavSearchTerm()">
-					<a href="{{ site.baseurl }}/search/">
-						<div id="navOKtext">
-							<span>Search</span>
-						</div>
-					</a>
-				</div>	
-			</div>
+	<div id="navTagline">
+		<div id="navTaglineText">
+			<span>Tfw no surrogate robot father figure with sunglasses</span>
 		</div>
-
-		<script type="text/javascript">
-
-			function getNavSearchTerm() {
-				searchTerm = document.getElementById("navSearch").value;
-				return true;
-				}
-		</script>
-
-
 	</div>
+
+	<div id="navCol-3">
+		<div id="navSearchOK" onclick="getNavSearchTerm()">
+			<a href="{{ site.baseurl }}/search/">
+				<div id="navOKtext">
+					<span>Search</span>
+				</div>
+			</a>
+		</div>
+	</div>
+</div>
