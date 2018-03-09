@@ -17,8 +17,8 @@ title: Bite-Size Reviews
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Short, easily digestable movie reviews, impressions, and opinions.
-baseurl: "/BiteSizeReviews" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.bitesizereviews.studiowayward.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 

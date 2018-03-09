@@ -14,6 +14,6 @@ This surreal, artificial lightness is at the heart of what makes "Justice League
 
 Sadly, what we got was a passable, yet stale and uninspired Marvel retread, with a main villain whose tremendous amount of imposing build-up resulted in a comical nobody incapable of carrying a movie, or posing enough of a real threat for the heroes to even take him seriously. Marvel villains for the longest time have been notoriously flat and unimaginative characters, and yet Steppenwolf manages to disappoint even those standards. 
 
-If a lacklustre villain, a poorly airbrushed Superman, Stand-up Comedy Batman, don't leave enough of a bad taste in your mouth: 
+If a lacklustre villain, a poorly airbrushed Superman, and a Stand-up Comedy Batman don't leave enough of a bad taste in your mouth: 
 
-The Flash unironically runs like an idiot.
+The Flash unironically runs like an idiot. It's bizarre.
