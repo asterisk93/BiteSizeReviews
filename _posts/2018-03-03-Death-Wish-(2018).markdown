@@ -1,0 +1,13 @@
+---
+ layout: post
+ title: "Death Wish (2018)"
+ date:  2018-03-03
+ categories: review
+ rating: "6.5"
+ light: "yellow"
+ poster: "death-wish-18.jpg"
+ permalink: /:title
+---
+
+
+More than anything, I feel like the timing of this movie is what makes it so surreal. Divorce 'Death Wish' from all real-world implications and what you have is a revenge story wherein a wealthy doctor whose wife dies in an attempted home robbery teaches himself gunplay using youtube videos and becomes a killer vigilante. Good acting on Willis' part makes for a believably soft father turned inexperienced action hero, which, given his high-octane protagonist history, is a considerable feat. The plot is fairly straightforward, but there are certain details that ring a bit too relevant to current events that at times make this movie almost stray from standard action flick territory into 'feature-length NRA propoganda ad' domain. In one part, the attendant at the gun shop responsible for the sensationalist firearm adverts recites the due process of how easy it is to get your hands on a rifle, in a way that's almost out of contempt for anyone trying to have better processes put in place, and describes the firearm safety course going as far to say "but nobody ever fails it" in a way that implies super lenient grading. For those for whom this may not resonate well with, the ultimate payoff from all of our hero's vigilante adventures may not digest particularly well. 
