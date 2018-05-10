@@ -636,7 +636,7 @@ a #mealBlock{
 #post-bodyText{
 	text-indent: 1.75em;
 	font-family: 'helvetica';
-	font-size: 1.0vw;
+	font-size: 12px;
 	color: #FFFFFF;
 	padding: 15px;
 }
