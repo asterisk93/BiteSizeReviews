@@ -546,7 +546,7 @@ a #mealBlock{
 	
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 	#post-container{
 		width: 96%;
 	}
