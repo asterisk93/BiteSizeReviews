@@ -3,6 +3,11 @@ body{
 	font-size: 10px;
 }
 
+@font-face{
+	font-family: 'steagisler';	
+	src: url('fonts/Steagisler.otf');
+}
+
 a {
 	text-decoration: none;
 }
