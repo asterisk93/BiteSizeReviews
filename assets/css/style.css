@@ -45,6 +45,12 @@ a {
 	margin-bottom: 30px;
 }
 
+@media only screen and (max-width: 360px) {
+	#navbarContainer{
+		display: none;
+	}
+}
+
 #navCol-1{
 	display: flex;
 	justify-content: center;
