@@ -1,0 +1,14 @@
+---
+ layout: post
+ title: "Deadpool 2"
+ date:  2018-05-17
+ categories: review
+ rating: "7.5"
+ light: "green"
+ poster: "deadpool-2.jpg"
+ permalink: /:title
+---
+
+
+Going in, I had my worries about Deadpool 2. How would a sub-Marvel movie contend with being released in the still very present wake of Infinity War? Would deadpool's unique meta-slapstick charisma be enough to offset audience 'hero fatigue' syndrome? 
+Thankfully, Deadpool's relative isolation from the main Marvel-verse allows for an enjoyable 1.5-2 hour adventure that manages to feel at home in the X-Men universe while having an open licence to to make self aware references to anything Marvel or beyond. The pacing is well thought out, as there is always something of interest going on and the movie never seems to hang, but the editing during some of the fight sequences can make the action blurry and hard to follow, which would've been a major detriment had the movie been more action-driven. (I attended an IMAX screening.) While this portrayal of Pool may seem a bit subdued to comic purists, the movie's feel and atmosphere are that of a worthy sequel. DP2 is good movie night fare, and would work nicely if marathoned immediately after the previous film.
