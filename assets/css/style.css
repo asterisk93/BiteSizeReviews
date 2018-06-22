@@ -423,13 +423,13 @@ a #mealText{
 @media only screen and (max-width: 360px) {
 	.catBarButton{
 		margin: 30px;
-		width: 60%;
+		width: 70%;
 	}
 
 
 	#biteText, #mealText{
 		font-family: 'Bungee';
-		font-size: 7px;
+		font-size: 10px;
 		border-style: solid;
 		border-width: 5px;
 		border-color: #FFFFFF;
