@@ -870,6 +870,7 @@ a #mealBlock{
 
 }
 
+
 #collect-titleText{
 	font-family: 'Bungee';
 	font-size: 3.5vw;
@@ -882,6 +883,20 @@ a #mealBlock{
 	color: #FFFFFF;
 }
 
+@media only screen and (max-width: 360px) {
+	#collect-titleBar{
+		width: 75%;
+		border-width: 5px;
+	}
+
+	#collect-titleText{
+		font-size: 22px;
+	}
+
+	#collect-tagline{
+		font-size: 10px;
+	}
+}
 /**
 ---------------------------------About Page---------------------------------
 **/
