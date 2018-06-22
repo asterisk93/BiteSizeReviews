@@ -257,6 +257,33 @@ a #navOKtext:hover{
 	border-color: #4a4a4a;
 }
 
+#mob_logo {
+	display: none;
+}
+
+@media only screen and (max-width: 360px) {
+	#jumboContainer{
+		display: none;
+	}
+
+	#mob_logo{
+		display: block;
+		font-size: 25px;
+		background-color: #4a4a4a;
+		width: 75%;
+		font-family: 'Bungee';
+		color: #FFFFFF;
+		text-align: center;
+		border-style: solid;
+		border-color: #FFFFFF;
+		border-width: 5px;
+		border-radius: 5%;
+		padding-left: 5px;
+		padding-right: 5px;
+		margin: 0 auto;
+	}
+}
+
 #jumbotron{
 	position: relative;
 	background-image: url("https://i.imgur.com/EiviJbb.gif");
@@ -326,6 +353,21 @@ a #jumbotext{
 	justify-content: space-between;
 	text-align: center;
 	margin-top: 35px;
+}
+
+@media only screen and (max-width: 360px) {
+	#categoryBar{
+		width: 95%;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-between;
+		text-align: center;
+		margin-top: 35px;
+	}
+
+
 }
 
 .catBarButton{
@@ -411,6 +453,26 @@ a #mealText{
 
 }
 
+@media only screen and (max-width: 360px) {
+	#preview{
+		border-style: solid;
+		border-width: 5px;
+		border-radius: 15px;
+		border-color: #4a4a4a;
+		padding: 20px;
+		margin: 0 auto;
+		margin-top: 30px;
+		margin-bottom: 30px;
+		background-color: #808080;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-between;	
+		text-align: center;
+	}
+
+}
+
 #preview:hover{
 	border-color: #FFFFFF;
 }
@@ -427,7 +489,16 @@ a #mealText{
 	font-size: 1.3vw;
 	color: #333333;
 	width: 50%;
-	font-weight: 
+}
+
+@media only screen and (max-width: 360px) {
+	#movieTitle{
+		font-family: 'Candal';
+		text-transform: uppercase;
+		font-size: 10px;
+		color: #333333;
+		width: 75%;
+	}
 }
 
 #rating{
