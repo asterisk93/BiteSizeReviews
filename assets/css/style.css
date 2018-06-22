@@ -503,6 +503,12 @@ a #mealText{
 		text-align: center;
 	}
 
+	.previewLink {
+		width: 85%;
+		text-align: center;
+		margin: 0 auto;
+		margin-top: 60px;
+	}
 }
 
 #preview:hover{
