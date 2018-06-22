@@ -268,9 +268,9 @@ a #navOKtext:hover{
 
 	#mob_logo{
 		display: block;
-		font-size: 25px;
+		font-size: 30px;
 		background-color: #4a4a4a;
-		width: 75%;
+		width: 85%;
 		font-family: 'Bungee';
 		color: #FFFFFF;
 		text-align: center;
@@ -280,8 +280,8 @@ a #navOKtext:hover{
 		border-radius: 5%;
 		padding-left: 5px;
 		padding-right: 5px;
-		padding-top: 18px;
-		padding-bottom: 18px;
+		padding-top: 28px;
+		padding-bottom: 28px;
 		margin: 0 auto;
 		margin-top: 15px;
 		background-image: url("https://i.imgur.com/EiviJbb.gif");
@@ -598,7 +598,7 @@ a #mealText{
 	text-align: left;
 	font-family: 'helvetica';
 	text-transform: uppercase;
-	font-size: 1vw;
+	font-size: 18px;
 	color: #FFFFFF;
 	margin-bottom: -15px;
 	padding-left: 15px;
