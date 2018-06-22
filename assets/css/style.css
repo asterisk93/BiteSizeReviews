@@ -281,6 +281,9 @@ a #navOKtext:hover{
 		padding-left: 5px;
 		padding-right: 5px;
 		margin: 0 auto;
+		background-image: url("https://i.imgur.com/EiviJbb.gif");
+		background-repeat: no-repeat;
+		background-position: center;
 	}
 }
 
@@ -414,6 +417,24 @@ a #mealText{
 	border-color: blue;
 }
 
+@media only screen and (max-width: 360px) {
+	.catBarButton{
+		margin: 30px;
+		width: 60%;
+	}
+
+
+	#biteText, #mealText{
+		font-family: 'Bungee';
+		font-size: 7px;
+		border-style: solid;
+		border-width: 5px;
+		border-color: #FFFFFF;
+		border-radius: 5%;
+		background-color: #666666;
+	}
+
+}
 
 /**
 ---------------------------------Post Previews---------------------------------
@@ -427,6 +448,13 @@ a #mealText{
 	font-size: 1.3vw;
 	margin-bottom: -40px;
 }
+
+@media only screen and (max-width: 360px) {
+
+	#recent{
+		text-align: center;
+		font-size: 9px;
+	}
 
 .previewLink {
 	width: 65%;
