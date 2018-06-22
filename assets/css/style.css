@@ -664,6 +664,7 @@ a #mealBlock{
 @media only screen and (max-width: 360px) {
 	#post-container{
 		width: 96%;
+		flex-direction: column;
 	}
 }
 
@@ -671,6 +672,12 @@ a #mealBlock{
 	width: 30vw;
 	align-self: center;
 	background-color: #333333;
+}
+
+@media only screen and (max-width: 360px) {
+	#post-poster{
+		width: 100%;
+	}
 }
 
 #post-dataBar{
@@ -702,6 +709,16 @@ a #mealBlock{
 	margin-left: 15px;
 }
 
+@media only screen and (max-width: 360px) {
+	#post-titleText{
+		font-size: 15px;
+	}
+
+	#post-date{
+		font-size: 10px;
+	}
+}
+
 #post-reviewBar{
 	display: flex;
 	flex-direction: row;
@@ -726,6 +743,23 @@ a #mealBlock{
 	line-height: 1.25vw;
 	padding: 5px;
 	margin-left: 5px;
+}
+
+@media only screen and (max-width: 360px) {
+	
+	#post-reviewBar{
+		margin: 0 auto;
+		justify-content: center;
+	}
+
+	#post-ratingText{
+		font-size: 12px;
+	}
+
+	#post-ratingValue{
+		font-size: 15px;
+		padding: 10px;
+	}
 }
 
 [postLight~=gold]{
@@ -761,6 +795,12 @@ a #mealBlock{
 	font-size: 1.1vw;
 	color: #FFFFFF;
 	padding: 15px;
+}
+
+@media only screen and (max-width: 360px) {
+	#post-bodyText{
+		font-size: 15px;
+	}
 }
 
 #meal-container{
