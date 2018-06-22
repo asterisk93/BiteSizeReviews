@@ -626,6 +626,16 @@ a #BSRblock{
 	padding: 0 15px;
 }
 
+@media only screen and (max-width: 360px) {
+	#articleTitle{
+		font-size: 15px;
+		padding: 0px;
+		margin-top: 15px;
+	}
+}
+
+
+
 a #articleTitle{
 	color: #333333;	
 }
@@ -851,6 +861,32 @@ a #mealBlock{
 	padding: 30px;
 	width: 70%;
 	margin: 0 auto;
+}
+
+@media only screen and (max-width: 360px) {
+	#meal-container{
+		width: 96%;
+	}
+
+	#meal-body{
+		font-size: 15px;
+	}
+
+	#meal-date{
+		font-size: 10px;
+	}
+
+	#meal-titleBar{
+		flex-direction: column;
+	}
+
+	#meal-title{
+		font-size: 15px;
+	}
+
+	#meal-mainImage{
+		height: 140px;
+	}
 }
 
 /**
