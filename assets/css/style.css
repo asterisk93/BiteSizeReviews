@@ -280,8 +280,8 @@ a #navOKtext:hover{
 		border-radius: 5%;
 		padding-left: 5px;
 		padding-right: 5px;
-		padding-top: 8px;
-		padding-bottom: 8px;
+		padding-top: 18px;
+		padding-bottom: 18px;
 		margin: 0 auto;
 		margin-top: 15px;
 		background-image: url("https://i.imgur.com/EiviJbb.gif");
@@ -956,6 +956,12 @@ a #mealBlock{
 	justify-content: space-around;
 	align-items: center;
 	padding: 5px;
+}
+
+@media only screen and (max-width: 360px) {
+	#footer-container{
+		display: none;
+	}
 }
 
 #footer-home{
