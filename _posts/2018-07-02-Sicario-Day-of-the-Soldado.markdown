@@ -4,7 +4,7 @@
  date:  2018-07-02
  categories: review
  rating: "6.5-7"
- light: "green"
+ light: "yellow"
  poster: "sicario-2.jpg"
  permalink: /:title
 ---
