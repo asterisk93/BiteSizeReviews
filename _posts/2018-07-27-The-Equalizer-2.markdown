@@ -1,11 +1,11 @@
 ---
 layout: post
-title: “The Equalizer 2”
+title: "The Equalizer 2"
 date: 2018-07-27
 categories: review
-rating: “6”
-light: “yellow”
-poster: “equalizer-2.jpg”
+rating: "6"
+light: "yellow"
+poster: "equalizer-2.jpg"
 permalink: /:title
 ---
 
