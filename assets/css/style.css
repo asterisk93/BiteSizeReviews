@@ -289,6 +289,10 @@ a #navOKtext:hover{
 		background-repeat: no-repeat;
 		background-position: center;
 	}
+	
+	a #mob_logo{
+		color: #FFFFFF;
+	}
 }
 
 #jumbotron{
