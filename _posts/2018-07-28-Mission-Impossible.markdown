@@ -1,11 +1,11 @@
 ---
 layout: post
-title: “Mission: Impossible”
+title: "Mission: Impossible"
 date: 2018-07-28
 categories: review
-rating: “8”
-light: “green”
-poster: “mission-impossible-1.jpg”
+rating: "8"
+light: "green"
+poster: "mission-impossible-1.jpg"
 permalink: /:title
 ---
 
