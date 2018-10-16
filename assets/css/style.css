@@ -45,7 +45,7 @@ a {
 	margin-bottom: 30px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#navbarContainer{
 		display: none;
 	}
@@ -261,7 +261,7 @@ a #navOKtext:hover{
 	display: none;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#jumboContainer{
 		display: none;
 	}
@@ -366,7 +366,7 @@ a #jumbotext{
 	margin-top: 35px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#categoryBar{
 		width: 95%;
 		margin: 0 auto;
@@ -425,7 +425,7 @@ a #mealText{
 	border-color: blue;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	.catBarButton{
 		margin: 30px;
 		width: 70%;
@@ -457,7 +457,7 @@ a #mealText{
 	margin-bottom: -40px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 
 	#recent{
 		text-align: center;
@@ -490,7 +490,7 @@ a #mealText{
 
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#preview{
 		border-style: solid;
 		border-width: 5px;
@@ -534,7 +534,7 @@ a #mealText{
 	width: 50%;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#movieTitle{
 		font-family: 'Candal';
 		text-transform: uppercase;
@@ -631,7 +631,7 @@ a #BSRblock{
 	padding: 0 15px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#articleTitle{
 		font-size: 15px;
 		padding: 0px;
@@ -676,7 +676,7 @@ a #mealBlock{
 	
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#post-container{
 		width: 96%;
 		flex-direction: column;
@@ -689,7 +689,7 @@ a #mealBlock{
 	background-color: #333333;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#post-poster{
 		width: 100%;
 	}
@@ -724,7 +724,7 @@ a #mealBlock{
 	margin-left: 15px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#post-titleText{
 		font-size: 15px;
 	}
@@ -760,7 +760,7 @@ a #mealBlock{
 	margin-left: 5px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	
 	#post-reviewBar{
 		margin: 0 auto;
@@ -812,7 +812,7 @@ a #mealBlock{
 	padding: 15px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#post-bodyText{
 		font-size: 15px;
 	}
@@ -868,7 +868,7 @@ a #mealBlock{
 	margin: 0 auto;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#meal-container{
 		width: 96%;
 	}
@@ -924,7 +924,7 @@ a #mealBlock{
 	color: #FFFFFF;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#collect-titleBar{
 		width: 75%;
 		border-width: 5px;
@@ -1060,7 +1060,7 @@ a #mealBlock{
 	padding: 5px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 420px) {
 	#footer-container{
 		display: none;
 	}
