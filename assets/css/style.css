@@ -30,6 +30,8 @@ a {
 ---------------------------------Navigation Bar---------------------------------
 **/
 
+/** dummy comment to test commit problems affecting wayward **/
+
 #navbarContainer{
 	display: flex;
 	flex-direction: row;
