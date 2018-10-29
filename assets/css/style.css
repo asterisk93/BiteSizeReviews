@@ -268,7 +268,7 @@ a #navOKtext:hover{
 
 	#mob_logo{
 		display: block;
-		font-size: 30px;
+		font-size: 10vw;
 		background-color: #4a4a4a;
 		width: 85%;
 		font-family: 'Bungee';
@@ -278,10 +278,7 @@ a #navOKtext:hover{
 		border-color: #FFFFFF;
 		border-width: 5px;
 		border-radius: 5%;
-		padding-left: 5px;
-		padding-right: 5px;
-		padding-top: 28px;
-		padding-bottom: 28px;
+		padding: 3vw;
 		margin: 0 auto;
 		margin-top: 15px;
 		margin-bottom: 20px;
@@ -368,7 +365,7 @@ a #jumbotext{
 
 @media only screen and (max-width: 420px) {
 	#categoryBar{
-		width: 95%;
+		width: 100%;
 		margin: 0 auto;
 		display: flex;
 		flex-direction: column;
@@ -427,14 +424,14 @@ a #mealText{
 
 @media only screen and (max-width: 420px) {
 	.catBarButton{
-		margin: 30px;
-		width: 70%;
+		margin: 5vw 0;
+		width: 80%;
 	}
 
 
 	#biteText, #mealText{
 		font-family: 'Bungee';
-		font-size: 10px;
+		font-size: 3.5vw;
 		border-style: solid;
 		border-width: 5px;
 		border-color: #FFFFFF;
