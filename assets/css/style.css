@@ -1056,28 +1056,21 @@ a #mealBlock{
 	flex-direction: row;
 	justify-content: space-around;
 	align-items: center;
-	padding: 5px;
-}
-
-@media only screen and (max-width: 420px) {
-	#footer-container{
-		display: none;
-	}
+	padding: .1%;
+	border-radius: 5px;
 }
 
 #footer-home{
-	height: 35px;
-	padding: 0 10px;
+	width: 3.5vw;
 }
 
 .footer-btn{
 	font-family: helvetica;
-	font-size: 14px;
-	height: 35px;
+	font-size: .7vw;
 	text-transform: uppercase;
-	line-height: 35px;
 	border-width: 0px;
 	border-radius: 5px;
+	padding: 1vw;
 }
 
 .footer-btn span{
@@ -1086,12 +1079,11 @@ a #mealBlock{
 
 .footer-btn-main{
 	font-family: steagisler;
-	font-size: 16px;
-	height: 35px;
+	font-size: 1vw;
 	text-transform: uppercase;
-	line-height: 35px;
 	border-width: 0px;
 	border-radius: 5px;
+	padding: 1vw;
 }
 
 .footer-btn-main span{
