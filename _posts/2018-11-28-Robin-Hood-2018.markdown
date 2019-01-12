@@ -1,0 +1,13 @@
+---
+ layout: post
+ title: "Robin Hood (2018)"
+ date:  2018-11-28
+ categories: review
+ rating: "6"
+ light: "yellow"
+ poster: "robin-hood-2018.jpg"
+ permalink: /:title
+---
+
+
+Despite the star power of its main duo, Robin Hood suffers from being a somewhat predictable and mostly forgettable experience. Aside from a neat stylistic beat early on where the film attempts to marry medieval archery with modern-style urban warfare, by and large Robin Hood feels like an unsure retread, with pacing issues that had me losing interest and zoning out right in the middle of one of its major action sequences. Both Jamie Foxx and Taron Egerton aren’t enough to save this remake. A passable actionish flick at best, but a cash grab if ever I’ve seen one.
