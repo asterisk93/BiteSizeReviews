@@ -3,8 +3,8 @@
  title: "Alita: Battle Angel"
  date:  2019-02-13
  categories: review
- rating: "8.5"
- light: "gold"
+ rating: "8"
+ light: "green"
  poster: "alita-battle-angel.jpg"
  permalink: /:title
 ---
