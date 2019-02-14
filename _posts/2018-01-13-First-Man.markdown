@@ -1,0 +1,13 @@
+---
+ layout: post
+ title: "First Man"
+ date:  2019-01-13
+ categories: review
+ rating: "8"
+ light: "green"
+ poster: "first-man.jpg"
+ permalink: /:title
+---
+
+
+First Man is a surprisingly dour and grim account of one of America’s greatest accomplishments. Masterfully bleak, the film exudes an almost ethereal feel with a haunting, out of this world (sorry) score, and a slow, desperate pace driven by some sense of far-off urgency. First Man is a very somber film, and while it may document a triumphant moment in American history, it is decidedly un-nationalistic, prioritizing emphasis on the human stories behind the event. Gosling’s performance as a stoic Neil Armstrong is hauntingly cerebral, and succeeds in portraying a character trying to make peace with personal tragedy while dealing with the stress of the monolithic task at hand. All in all, this film faces the challenge of reigniting the drama of the moon landing, an event frequently visited in pop-culture that happened almost half a century ago in our history, and ultimately succeeds in doing so by placing the event atop a dramatic crescendo it goes to very great lengths to build.
