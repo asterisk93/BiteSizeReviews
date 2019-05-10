@@ -5,7 +5,7 @@
  categories: review
  rating: "7"
  light: "green"
- poster: "shazam.jpg"
+ poster: "shazam-2019.jpg"
  permalink: /:title
 ---
 
