@@ -1,0 +1,13 @@
+---
+ layout: post
+ title: "Shazam! (2019)"
+ date:  2019-04-06
+ categories: review
+ rating: "7"
+ light: "green"
+ poster: "shazam.jpg"
+ permalink: /:title
+---
+
+
+Shazam - A character, and a movie whose release I didn’t really care much for, but a movie that my DC Comics friend was super excited to see. It’s not often I get to go into a hero movie completely uninitiated, but for the most part I walked out feeling like it had been worth my time. Shazam! Was very entertaining to watch, and seemed to be filled with a joyous, meta-hero exuberance. While the story itself is average hero fare at best, the character interactions are genuine and there is enough emotional content present to make you feel for Billy Batson’s situation; a resonance of feeling that, however brief, I found to be noticeably absent in Captain Marvel. The film’s climax and conclusion fall a bit flat, but it still manages to end on an upbeat note that makes it, in my book, a surprisingly adequate hero movie that never takes itself too seriously. While I saw Shazam! In IMAX, I’m convinced that any screen will do.
