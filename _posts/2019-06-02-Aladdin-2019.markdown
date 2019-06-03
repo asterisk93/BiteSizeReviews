@@ -1,0 +1,13 @@
+---
+ layout: post
+ title: "Aladdin (2019)"
+ date:  2019-06-02
+ categories: review
+ rating: "7.5"
+ light: "green"
+ poster: "aladdin-2019.jpg"
+ permalink: /:title
+---
+
+
+Aside from some editing awkwardness that stuck out to me in the film’s introductory sequence, I found myself pleasantly surprised with how much I enjoyed Disney’s new take on their own animated classic. At times it reads as an almost shot for shot remake, but the divergent details are a bit hit-or-miss. I feel like the lack of villainous presence in this interpretation’s Jafar did the movie no favors, but the addition of a new song for Jasmine, while maybe not to my taste musically, was a very welcome addition to humanizing her character and her struggle, something I’d consider a failing of the original in retrospect. Bold musical numbers, as well as great performances from the lead cast (and specifically, Will Smith’s Genie) manage to tie together this remake into a solid package that is both endearing and entertaining.
