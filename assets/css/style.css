@@ -465,6 +465,11 @@ a #mealText{
 	}
 }
 
+#recentContainer{
+	display: flex;
+	flex-direction: row;
+}
+
 .previewLink {
 	width: 40%;
 	text-align: center;
