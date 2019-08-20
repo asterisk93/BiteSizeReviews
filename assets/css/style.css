@@ -454,6 +454,7 @@ a #mealText{
 	font-family: 'Bungee';
 	font-size: 1.3vw;
 	margin-bottom: -40px;
+	text-align: center;
 }
 
 @media only screen and (max-width: 420px) {
@@ -465,7 +466,7 @@ a #mealText{
 }
 
 .previewLink {
-	width: 65%;
+	width: 40%;
 	text-align: center;
 	margin: 0 auto;
 	margin-top: 60px;
@@ -476,7 +477,7 @@ a #mealText{
 	border-width: 5px;
 	border-radius: 15px;
 	border-color: #4a4a4a;
-	padding: 20px;
+	padding: 1.5%;
 	margin: 0 auto;
 	margin-top: 30px;
 	margin-bottom: 30px;
