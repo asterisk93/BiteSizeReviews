@@ -42,7 +42,8 @@ layout: wrapper
 	<div id="recent">
 		<h1>Recent Posts:</h1>
 	</div>
-
+	
+	<div id="recentContainer">
 	{% for post in site.posts limit:9 %}
 	<div class="previewLink">
 
@@ -92,4 +93,5 @@ layout: wrapper
 	</div>
 
 	{% endfor %}
+	</div>
 
