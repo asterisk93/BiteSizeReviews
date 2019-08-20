@@ -468,6 +468,7 @@ a #mealText{
 #recentContainer{
 	display: flex;
 	flex-direction: row;
+	flex-wrap: wrap;
 }
 
 .previewLink {
@@ -534,9 +535,8 @@ a #mealText{
 #movieTitle{
 	font-family: 'Candal';
 	text-transform: uppercase;
-	font-size: 1.3vw;
+	font-size: 0.9vw;
 	color: #333333;
-	width: 50%;
 }
 
 @media only screen and (max-width: 420px) {
