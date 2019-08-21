@@ -391,7 +391,6 @@ a #jumbotext{
 	border-width: 0.4vw;
 	border-color: #FFFFFF;
 	border-radius: 5%;
-	padding: 0 40px;
 	background-color: #666666;
 }
 
@@ -411,7 +410,6 @@ a #biteText{
 	border-width: 0.4vw;
 	border-color: #FFFFFF;
 	border-radius: 5%;
-	padding: 0 40px;
 	background-color: #666666;
 }
 
@@ -424,7 +422,7 @@ a #mealText{
 	border-color: blue;
 }
 
-h1 #biteText, h1 #mealText{
+h1 #biteText{
 	margin: 0;
 }
 
