@@ -8,6 +8,10 @@ body{
 	src: url('fonts/Steagisler.otf');
 }
 
+h1 {
+	margin: 0
+}
+
 a {
 	text-decoration: none;
 }
