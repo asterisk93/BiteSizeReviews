@@ -424,6 +424,10 @@ a #mealText{
 	border-color: blue;
 }
 
+h1 #biteText, h1 #mealText{
+	margin: 0;
+}
+
 @media only screen and (max-width: 420px) {
 	.catBarButton{
 		margin: 5vw 0;
