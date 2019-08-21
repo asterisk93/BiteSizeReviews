@@ -355,12 +355,10 @@ a #jumbotext{
 **/
 
 #categoryBar{
-	width: 70%;
-	margin: 0 auto;
+	width: 100%;
 	display: flex;
 	flex-direction: row;
-	align-items: center;
-	justify-content: space-between;
+	justify-content: center;
 	text-align: center;
 	margin-top: 35px;
 }
@@ -381,14 +379,16 @@ a #jumbotext{
 }
 
 .catBarButton{
-	margin: 30px;
+	box-sizing: border-box;
+	width: 20%;
+	padding: 1%;
 }
 
 #biteText{
 	font-family: 'Bungee';
-	font-size: 1.2vw;
+	font-size: 1vw;
 	border-style: solid;
-	border-width: 10px;
+	border-width: 0.4vw;
 	border-color: #FFFFFF;
 	border-radius: 5%;
 	padding: 0 40px;
@@ -406,9 +406,9 @@ a #biteText{
 
 #mealText{
 	font-family: 'Bungee';
-	font-size: 1.2vw;
+	font-size: 1vw;
 	border-style: solid;
-	border-width: 10px;
+	border-width: 0.4vw;
 	border-color: #FFFFFF;
 	border-radius: 5%;
 	padding: 0 40px;
