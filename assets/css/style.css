@@ -253,14 +253,14 @@ a #navOKtext:hover{
 **/
 
 #jumboContainer {
-	width: 75%;
+	width: 53%;
 	background-color: black;
-	height: 523px;
 	margin: auto;
 	border-style: solid;
 	border-width: 5px;
 	border-radius: 15px;
 	border-color: #4a4a4a;
+	overflow: hidden;
 }
 
 #mob_logo {
@@ -299,12 +299,10 @@ a #navOKtext:hover{
 }
 
 #jumbotron{
-	position: relative;
 	background-image: url("https://i.imgur.com/EiviJbb.gif");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 513px;
-	top: 5px;
 }
 
 #jumbotext{
@@ -332,26 +330,6 @@ a #jumbotext{
 	color:red;
 	border-color: red;
 }
-
-    @media all and (min-width: 50px) {  #jumbotext  {   font-size:0.09em;  } }
-    @media all and (min-width: 100px) {  #jumbotext  {   font-size:0.1em;  } }
-    @media all and (min-width: 200px) {  #jumbotext  {   font-size:0.3em;  } }
-    @media all and (min-width: 300px) {  #jumbotext  {   font-size:0.5em;  } }
-    @media all and (min-width: 400px) {  #jumbotext  {   font-size:0.7em;  } }
-	@media all and (min-width: 500px) {  #jumbotext  {   font-size:0.9em;  } }
-	@media all and (min-width: 600px) {  #jumbotext  {   font-size:1.1em;  } }
-	@media all and (min-width: 700px) {  #jumbotext  {   font-size:1.3em;  } }
-	@media all and (min-width: 800px) {  #jumbotext  {   font-size:1.5em;  } }
-	@media all and (min-width: 900px) {  #jumbotext  {   font-size:1.7em;  } }
-	@media all and (min-width: 1000px) {  #jumbotext  { font-size:1.9em;  } }
-	@media all and (min-width: 1100px) {  #jumbotext  { font-size:2.0em;  } }
-	@media all and (min-width: 1200px) {  #jumbotext  { font-size:2.3em;  } }
-	@media all and (min-width: 1300px) {  #jumbotext  { font-size:2.5em;  } }
-	@media all and (min-width: 1400px) {  #jumbotext  { font-size:2.7em;  } }
-	@media all and (min-width: 1500px) {  #jumbotext  { font-size:2.9em;  } }
-	@media all and (min-width: 1500px) {  #jumbotext  { font-size:3.1em;  } }
-	@media all and (min-width: 1600px) {  #jumbotext  { font-size:3.3em;  } }
-	@media all and (min-width: 1700px) {  #jumbotext  { font-size:3.5em;  } }
 
 
 /**
@@ -461,7 +439,8 @@ h1 #biteText{
 	margin: auto;
 	font-family: 'Bungee';
 	font-size: 1.3vw;
-	margin-bottom: -40px;
+	margin-bottom: 0.5%;
+	margin-top: 0.5%;
 	text-align: center;
 }
 
