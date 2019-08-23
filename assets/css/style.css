@@ -384,8 +384,8 @@ a #biteText{
 }
 
 #biteText:hover{
-	color: green;
-	border-color: green;
+	color: limegreen;
+	border-color: limegreen;
 }
 
 #mealText{
@@ -404,8 +404,8 @@ a #mealText{
 }
 
 #mealText:hover{
-	color: blue;
-	border-color: blue;
+	color: dodgerblue;
+	border-color: dodgerblue;
 }
 
 h1 #biteText{
