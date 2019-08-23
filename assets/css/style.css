@@ -462,6 +462,13 @@ h1 #biteText{
 	margin: 0 auto;
 }
 
+@media only screen and (max-width: 420px) {
+	
+	#recentContainer{
+		width: 100%;
+	}
+}
+
 .previewLink {
 	box-sizing: border-box; 
 	width: 50%;
@@ -509,7 +516,7 @@ h1 #biteText{
 		width: 85%;
 		text-align: center;
 		margin: 0 auto;
-		margin-top: 60px;
+		margin-top: 5%;
 	}
 }
 
@@ -548,6 +555,13 @@ h1 #biteText{
 	padding: 2%;
 	border-style: solid;
 	border-radius: 5px;
+}
+
+@media only screen and (max-width: 420px) {
+	#rating{
+		font-size: 5vw;
+		margin-top: 5%;
+	}
 }
 
 .reviewText{
