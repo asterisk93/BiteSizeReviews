@@ -544,10 +544,8 @@ h1 #biteText{
 #rating{
 	font-family: 'Bungee';
 	text-align: center;
-	font-size: 25px;
-	line-height: 40px;
-	height: 40px;
-	padding: 15px;
+	font-size: 1.4vw;
+	padding: 2%;
 	border-style: solid;
 	border-radius: 5px;
 }
